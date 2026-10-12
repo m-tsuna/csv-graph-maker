@@ -1,0 +1,13 @@
+# GitHub に載せないファイルの一覧
+
+# 講座の配布教材（入力データ）
+data/
+
+# 提出用の記事
+提出記事.md
+提出記事.html
+images/
+
+# Mac や Python が自動で作るファイル
+.DS_Store
+__pycache__/
